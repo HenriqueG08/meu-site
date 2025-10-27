@@ -1,7 +1,11 @@
 body{
   background-color: #FFEEEE;
-h1{color: #FF0000;
+}
+h1{
+  color: #FF0000;
+}
 p{
   font-size: 16 px;
   color: #FF0000;
 }
+
