@@ -1,3 +1,10 @@
+header
+  border-bottom: solid 3px #00BF00;
+  padding: 10px;
+  font-size: 22px;
+  color: white;
+}
+
 body{
   background-color: #FFEEEE;
 }
@@ -8,4 +15,5 @@ p{
   font-size: 16 px;
   color: #FF0000;
 }
+
 
